@@ -1,0 +1,7 @@
+2023-04-29 00:08:38:838 [31merror[39m: [31mError initializing data source The server does not support SSL connections[39m
+2023-04-29 00:10:37:1037 [31merror[39m: [31mError initializing data source The server does not support SSL connections[39m
+2023-04-29 00:13:52:1352 [31merror[39m: [31mError initializing data source The server does not support SSL connections[39m
+2023-04-29 00:15:38:1538 [31merror[39m: [31mError initializing data source database "tosin" does not exist[39m
+2023-04-29 00:17:14:1714 [31merror[39m: [31mError initializing data source The server does not support SSL connections[39m
+2023-04-29 00:17:27:1727 [31merror[39m: [31mError initializing data source The server does not support SSL connections[39m
+2023-04-29 00:18:43:1843 [32minfo[39m: [32mData source initialized successfully[39m
