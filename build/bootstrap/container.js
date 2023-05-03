@@ -37,29 +37,25 @@ const container = awilix.createContainer();
 container.register('config', awilix.asValue(config_1.config));
 // register logger
 container.register('Logger', awilix.asValue(Logger_1.default));
-if (!container.resolve('configs').get('db.uri')) {
+if (!container.resolve('config').get('db.uri')) {
     container.resolve('logger').error('Database URI must be specified in environment variable');
     process.exit(0);
 }
 // register data source
 container.register('Datasource', awilix.asValue(data_source_1.default));
 // load all files in entities
-container.loadModules(['../entities/*.ts'], {
+container.loadModules(['../entities/**/*.ts'], {
     cwd: __dirname,
     formatName: (0, utils_1.formatNameWithGroup)('Entity'),
     resolverOptions: {
+        register: awilix.asValue,
         lifetime: awilix.Lifetime.SINGLETON,
     },
 });
-// load all files in controllers
-container.loadModules(['../controllers/*.ts'], {
+// load all files in services
+container.loadModules(['../repositories/*.ts'], {
     cwd: __dirname,
-    formatName: (0, utils_1.formatNameWithGroup)('Controller'),
-});
-// load all files in data access
-container.loadModules(['../data-access/*.ts'], {
-    cwd: __dirname,
-    formatName: (0, utils_1.formatNameWithGroup)('DataAccess'),
+    formatName: (0, utils_1.formatNameWithGroup)('Repository'),
 });
 // load all files in services
 container.loadModules(['../services/*.ts'], {

@@ -8,7 +8,7 @@ const convict_1 = __importDefault(require("convict"));
 const app_1 = require("../constants/app");
 const configData = {
     appName: app_1.APP_NAME,
-    port: Number(process.env.APP_PORT) || 5500,
+    port: Number(process.env.APP_PORT) || 55100,
     isDev: app_1.APP_NAME !== 'production',
     db: {
         uri: process.env.DATABASE_URI,

@@ -57,4 +57,5 @@ Category = __decorate([
     (0, typeorm_1.Entity)('categories')
 ], Category);
 exports.Category = Category;
+exports.default = Category;
 //# sourceMappingURL=category.entity.js.map

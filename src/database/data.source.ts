@@ -2,9 +2,9 @@ import { DataSource } from 'typeorm';
 
 import { config } from '../config';
 import Model from '../entities/base/model.entity';
-import CategoryEntity from '../entities/categories/category.entity'
+import { Category } from '../entities/categories/category.entity'
 
-export default new DataSource({
+const connectDB = new DataSource({
     type: 'postgres',
     applicationName: config.get('appName') as string,
     useUTC: true,
@@ -15,11 +15,13 @@ export default new DataSource({
     synchronize: config.get('isDev') as boolean,
     entities: [
       Model,
-      CategoryEntity,
+      Category,
     ],
     extra: {
       ssl: {
         rejectUnauthorized: false,
       },
-    },
+    }
 });
+
+export default connectDB;

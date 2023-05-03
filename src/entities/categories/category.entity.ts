@@ -2,7 +2,7 @@ import {Entity, Column} from 'typeorm';
 import Model from '../base/model.entity';
 
 @Entity('categories')
-export default class CategoryEntity extends Model {
+export class Category extends Model {
   @Column({
     type: 'varchar',
     name: 'name',
@@ -32,7 +32,9 @@ export default class CategoryEntity extends Model {
   })
     active: boolean;
 
-  toJSON(): CategoryEntity {
+  toJSON(): Category {
     return { ...this, createdAt: undefined, updatedAt: undefined };
   }
 }
+
+export default Category;

@@ -7,7 +7,7 @@ const typeorm_1 = require("typeorm");
 const config_1 = require("../config");
 const model_entity_1 = __importDefault(require("../entities/base/model.entity"));
 const category_entity_1 = require("../entities/categories/category.entity");
-exports.default = new typeorm_1.DataSource({
+const connectDB = new typeorm_1.DataSource({
     type: 'postgres',
     applicationName: config_1.config.get('appName'),
     useUTC: true,
@@ -24,6 +24,7 @@ exports.default = new typeorm_1.DataSource({
         ssl: {
             rejectUnauthorized: false,
         },
-    },
+    }
 });
+exports.default = connectDB;
 //# sourceMappingURL=data.source.js.map

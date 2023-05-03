@@ -35,15 +35,6 @@ container.loadModules(
     }
 );
 
-// load all files in data access
-container.loadModules(
-    ['../data-access/*.ts'],
-    {
-        cwd: __dirname,
-        formatName: formatNameWithGroup('DataAccess'),
-    }
-);
-
 // load all files in services
 container.loadModules(
     ['../repositories/*.ts'],

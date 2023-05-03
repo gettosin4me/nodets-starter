@@ -257,3 +257,307 @@
 2023-05-03 12:40:25:4025 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
 2023-05-03 12:46:48:4648 [32minfo[39m: [32mData source initialized successfully[39m
 2023-05-03 12:46:48:4648 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 12:48:10:4810 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 12:48:10:4810 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 15:07:32:732 [35mhttp[39m: [35mGET /v1/categories 200 2 - 22.102 ms[39m
+[35m[39m
+2023-05-03 16:54:07:547 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 16:54:08:548 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 16:54:43:5443 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 16:54:43:5443 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 16:55:10:5510 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 16:55:10:5510 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 16:59:37:5937 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 16:59:37:5937 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 16:59:57:5957 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 16:59:57:5957 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:00:37:037 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:00:37:037 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:00:49:049 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:00:49:049 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:00:50:050 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:00:50:050 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:03:43:343 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:03:43:343 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:04:17:417 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:04:17:417 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:04:46:446 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:04:46:446 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:05:41:541 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:05:41:541 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:06:09:69 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:06:09:69 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:06:30:630 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:06:30:630 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:06:38:638 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:06:38:638 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:07:18:718 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:07:18:718 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:07:50:750 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:07:50:750 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:08:13:813 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:08:13:813 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:08:19:819 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:08:19:819 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:08:23:823 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:08:23:823 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:08:30:830 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:08:30:830 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:09:11:911 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:09:11:911 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:15:35:1535 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:15:35:1535 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:16:04:164 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:16:04:164 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:18:12:1812 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:18:12:1812 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:18:14:1814 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:18:14:1814 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:19:50:1950 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:19:50:1950 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:19:56:1956 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:19:56:1956 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:19:59:1959 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:19:59:1959 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:20:01:201 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:20:01:201 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:20:09:209 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:20:09:209 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:20:11:2011 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:20:11:2011 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:20:15:2015 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:20:15:2015 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:20:16:2016 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:20:16:2016 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:20:20:2020 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:20:20:2020 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:20:43:2043 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:20:43:2043 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:21:44:2144 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:21:44:2144 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:22:15:2215 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:22:15:2215 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:22:28:2228 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:22:28:2228 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:22:32:2232 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:22:32:2232 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:22:33:2233 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:22:33:2233 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:23:17:2317 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:23:17:2317 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:24:00:240 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:24:00:240 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:24:19:2419 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:24:19:2419 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:24:33:2433 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:24:33:2433 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:24:42:2442 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:24:42:2442 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:25:14:2514 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:25:14:2514 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:25:37:2537 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:25:37:2537 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:25:53:2553 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:25:54:2554 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:27:42:2742 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:27:42:2742 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:28:43:2843 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:28:43:2843 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:28:47:2847 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:28:47:2847 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:29:20:2920 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:29:20:2920 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:29:22:2922 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:29:22:2922 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:29:34:2934 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:29:34:2934 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:31:13:3113 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:31:13:3113 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:31:38:3138 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:31:38:3138 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:31:42:3142 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:31:43:3143 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:32:02:322 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:32:02:322 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:32:05:325 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:32:05:325 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:32:10:3210 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:32:10:3210 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:32:40:3240 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:32:40:3240 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:32:55:3255 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:32:55:3255 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:33:24:3324 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:33:24:3324 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:36:52:3652 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:36:52:3652 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:39:38:3938 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:39:38:3938 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:40:33:4033 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:40:33:4033 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:41:53:4153 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:41:53:4153 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:43:22:4322 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:43:22:4322 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:43:53:4353 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:43:53:4353 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:44:05:445 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:44:05:445 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:44:07:447 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:44:07:447 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:44:16:4416 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:44:16:4416 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:45:41:4541 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:45:41:4541 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:46:06:466 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:46:06:466 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:46:57:4657 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:46:57:4657 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:48:12:4812 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:48:12:4812 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:48:19:4819 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:48:19:4819 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:54:27:5427 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:54:27:5427 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 17:59:48:5948 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 17:59:48:5948 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:00:06:06 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:00:06:06 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:00:46:046 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:00:46:046 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:00:54:054 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:00:54:054 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:01:19:119 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:01:19:119 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:01:31:131 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:01:31:131 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:01:50:150 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:01:50:150 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:02:34:234 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:02:34:234 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:02:36:236 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:02:36:236 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:07:39:739 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:07:39:739 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:11:18:1118 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:11:18:1118 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:11:51:1151 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:11:51:1151 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:13:08:138 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:13:08:138 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:13:13:1313 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:13:13:1313 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:13:24:1324 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:13:24:1324 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:14:12:1412 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:14:12:1412 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:17:55:1755 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:17:55:1755 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:18:01:181 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:18:01:181 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:24:05:245 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:24:05:245 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:24:17:2417 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:24:17:2417 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:24:47:2447 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:24:47:2447 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:31:10:3110 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:31:10:3110 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:31:16:3116 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:31:16:3116 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:31:20:3120 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:31:20:3120 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:31:23:3123 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:31:23:3123 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:31:46:3146 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:31:46:3146 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:33:28:3328 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:33:28:3328 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:35:39:3539 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:35:39:3539 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:38:19:3819 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:38:19:3819 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:38:26:3826 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:38:26:3826 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:38:33:3833 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:38:33:3833 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:42:15:4215 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:42:15:4215 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:42:36:4236 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:42:36:4236 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:43:19:4319 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:43:19:4319 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:44:13:4413 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:44:13:4413 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:44:17:4417 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:44:17:4417 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:44:31:4431 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:44:31:4431 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:45:55:4555 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:45:55:4555 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:46:25:4625 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:46:25:4625 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:47:42:4742 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:47:42:4742 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:47:59:4759 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:47:59:4759 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:50:11:5011 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:50:11:5011 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:50:17:5017 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:50:17:5017 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:51:20:5120 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:51:20:5120 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:51:24:5124 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:51:24:5124 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:51:25:5125 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:51:25:5125 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:52:50:5250 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:52:50:5250 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:55:06:556 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:55:06:556 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:55:23:5523 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:55:23:5523 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:55:32:5532 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:55:32:5532 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:55:44:5544 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:55:44:5544 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:56:02:562 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:56:02:562 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:56:08:568 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:56:08:568 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:56:24:5624 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:56:24:5624 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:56:25:5625 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:56:25:5625 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:56:33:5633 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:56:33:5633 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:57:02:572 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:57:02:572 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:57:18:5718 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:57:18:5718 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:57:26:5726 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:57:26:5726 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:57:33:5733 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:57:33:5733 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:57:51:5751 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:57:51:5751 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 18:58:55:5855 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 18:58:55:5855 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 19:00:17:017 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 19:00:17:017 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 19:00:21:021 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 19:00:21:021 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 19:00:40:040 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 19:00:40:040 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 19:00:53:053 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 19:00:53:053 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 19:01:21:121 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 19:01:21:121 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 19:01:33:133 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 19:01:33:133 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 19:01:36:136 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 19:01:36:136 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 19:01:50:150 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 19:01:50:150 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
+2023-05-03 19:03:53:353 [32minfo[39m: [32mData source initialized successfully[39m
+2023-05-03 19:03:53:353 [32minfo[39m: [32mServer lauched successfully on port 5500[39m
