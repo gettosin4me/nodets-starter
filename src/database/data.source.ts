@@ -3,7 +3,7 @@ import { DataSource } from 'typeorm';
 import { config } from '../config';
 import Model from '../entities/base/model.entity';
 import { Category } from '../entities/categories/category.entity'
-console.log('urioooooo---->', config.get('db'))
+
 export default new DataSource({
     type: 'postgres',
     applicationName: config.get('appName') as string,

@@ -15,3 +15,5 @@
 {"v":0,"level":30,"name":"newrelic","hostname":"AkomolafesMBP6.lan","pid":21342,"time":"2023-04-28T23:17:27.469Z","msg":"Module disabled in configuration. Not starting."}
 {"v":0,"level":30,"name":"newrelic","hostname":"AkomolafesMBP6.lan","pid":22578,"time":"2023-04-28T23:18:42.865Z","msg":"Using New Relic for Node.js. Agent version: 10.0.0; Node version: v14.18.1."}
 {"v":0,"level":30,"name":"newrelic","hostname":"AkomolafesMBP6.lan","pid":22578,"time":"2023-04-28T23:18:42.868Z","msg":"Module disabled in configuration. Not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"AkomolafesMBP6.lan","pid":72299,"time":"2023-04-29T00:03:28.744Z","msg":"Using New Relic for Node.js. Agent version: 10.0.0; Node version: v14.18.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"AkomolafesMBP6.lan","pid":72299,"time":"2023-04-29T00:03:28.747Z","msg":"Module disabled in configuration. Not starting."}

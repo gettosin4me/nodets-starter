@@ -7,7 +7,6 @@ const typeorm_1 = require("typeorm");
 const config_1 = require("../config");
 const model_entity_1 = __importDefault(require("../entities/base/model.entity"));
 const category_entity_1 = require("../entities/categories/category.entity");
-console.log('urioooooo---->', config_1.config.get('db'));
 exports.default = new typeorm_1.DataSource({
     type: 'postgres',
     applicationName: config_1.config.get('appName'),
@@ -27,4 +26,4 @@ exports.default = new typeorm_1.DataSource({
         },
     },
 });
-//# sourceMappingURL=data-source.js.map
+//# sourceMappingURL=data.source.js.map
