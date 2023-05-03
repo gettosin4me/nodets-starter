@@ -24,11 +24,12 @@ container.register('Datasource', awilix.asValue(Datasource));
 
 // load all files in entities
 container.loadModules(
-    ['../entities/*.ts'],
+    ['../entities/**/*.ts'],
     {
         cwd: __dirname,
         formatName: formatNameWithGroup('Entity'),
         resolverOptions: {
+            register: awilix.asValue,
             lifetime: awilix.Lifetime.SINGLETON,
         },
     }
@@ -40,6 +41,15 @@ container.loadModules(
     {
         cwd: __dirname,
         formatName: formatNameWithGroup('DataAccess'),
+    }
+);
+
+// load all files in services
+container.loadModules(
+    ['../repositories/*.ts'],
+    {
+        cwd: __dirname,
+        formatName: formatNameWithGroup('Repository'),
     }
 );
 

@@ -1,6 +1,9 @@
+import dotenv from 'dotenv';
 import server from './server';
 import logger from '../core/Logger';
 import container from '../bootstrap/container';
+
+dotenv.config();
 
 (async () => {
     try {

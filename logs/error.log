@@ -4,3 +4,105 @@
 2023-04-29 00:15:38:1538 [31merror[39m: [31mError initializing data source database "tosin" does not exist[39m
 2023-04-29 00:17:14:1714 [31merror[39m: [31mError initializing data source The server does not support SSL connections[39m
 2023-04-29 00:17:27:1727 [31merror[39m: [31mError initializing data source The server does not support SSL connections[39m
+2023-05-03 11:57:09:579 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m8[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m8[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m9[0m:[93m10[0m - [91merror[0m[90m TS2339: [0mProperty 'CategoryRepository' does not exist on type 'CategoryController'.[39m
+
+[31m[7m9[0m     this.CategoryRepository = CategoryRepository[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 11:57:41:5741 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m8[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m8[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m9[0m:[93m10[0m - [91merror[0m[90m TS2339: [0mProperty 'CategoryRepository' does not exist on type 'CategoryController'.[39m
+
+[31m[7m9[0m     this.CategoryRepository = CategoryRepository[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m15[0m:[93m24[0m - [91merror[0m[90m TS2304: [0mCannot find name 'CategoryRepository'.[39m
+
+[31m[7m15[0m     const data = await CategoryRepository.getCategories()[39m
+[31m[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 11:57:55:5755 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m8[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m8[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m9[0m:[93m10[0m - [91merror[0m[90m TS2339: [0mProperty 'CategoryRepository' does not exist on type 'CategoryController'.[39m
+
+[31m[7m9[0m     this.CategoryRepository = CategoryRepository[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m15[0m:[93m13[0m - [91merror[0m[90m TS2339: [0mProperty 'CategoryRepository' does not exist on type 'CategoryController'.[39m
+
+[31m[7m15[0m     const { CategoryRepository } = this;[39m
+[31m[7m  [0m [91m            ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 11:58:15:5815 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m8[0m:[93m9[0m - [91merror[0m[90m TS1248: [0mA class member cannot have the 'const' keyword.[39m
+
+[31m[7m8[0m   const CategoryRepository;[39m
+[31m[7m [0m [91m        ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m9[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m9[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 11:58:21:5821 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m9[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m9[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 11:58:25:5825 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m10[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m10[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 11:58:30:5830 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m10[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m10[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 11:58:36:5836 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m10[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m10[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 11:59:45:5945 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m10[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m10[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 12:13:03:133 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m10[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m10[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 12:13:24:1324 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m10[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m10[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 12:14:54:1454 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m11[0m:[93m17[0m - [91merror[0m[90m TS7031: [0mBinding element 'CategoryRepository' implicitly has an 'any' type.[39m
+
+[31m[7m11[0m   constructor({ CategoryRepository }) {[39m
+[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m
+2023-05-03 12:15:12:1512 [31merror[39m: [31mError initializing data source ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/controllers/category.controller.ts[0m:[93m19[0m:[93m24[0m - [91merror[0m[90m TS18046: [0m'CategoryRepository' is of type 'unknown'.[39m
+
+[31m[7m19[0m     const data = await CategoryRepository.getCategories()[39m
+[31m[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[39m

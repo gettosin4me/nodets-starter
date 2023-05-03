@@ -4,7 +4,7 @@ import { APP_NAME } from '../constants/app';
 
 const configData: ConfigInterface = {
     appName: APP_NAME,
-    port: Number(process.env.APP_PORT) || 5500,
+    port: Number(process.env.APP_PORT) || 55100,
     isDev: APP_NAME !== 'production',
     db: {
         uri: <string>process.env.DATABASE_URI,

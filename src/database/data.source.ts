@@ -2,7 +2,7 @@ import { DataSource } from 'typeorm';
 
 import { config } from '../config';
 import Model from '../entities/base/model.entity';
-import { Category } from '../entities/categories/category.entity'
+import CategoryEntity from '../entities/categories/category.entity'
 
 export default new DataSource({
     type: 'postgres',
@@ -15,7 +15,7 @@ export default new DataSource({
     synchronize: config.get('isDev') as boolean,
     entities: [
       Model,
-      Category,
+      CategoryEntity,
     ],
     extra: {
       ssl: {
