@@ -14,7 +14,7 @@ container.register('config', awilix.asValue(config));
 // register logger
 container.register('Logger', awilix.asValue(logger));
 
-if (!container.resolve('configs').get('db.uri')) {
+if (!container.resolve('config').get('db.uri')) {
     container.resolve('logger').error('Database URI must be specified in environment variable');
     process.exit(0);
 }
@@ -31,15 +31,6 @@ container.loadModules(
         resolverOptions: {
             lifetime: awilix.Lifetime.SINGLETON,
         },
-    }
-);
-
-// load all files in controllers
-container.loadModules(
-    ['../controllers/*.ts'],
-    {
-        cwd: __dirname,
-        formatName: formatNameWithGroup('Controller'),
     }
 );
 
